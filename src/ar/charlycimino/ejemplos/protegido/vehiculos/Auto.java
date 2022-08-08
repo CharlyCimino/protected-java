@@ -1,4 +1,4 @@
-package vehiculos;
+package ar.charlycimino.ejemplos.protegido.vehiculos;
 
 /**
  *

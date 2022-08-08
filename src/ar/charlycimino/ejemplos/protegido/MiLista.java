@@ -1,4 +1,4 @@
-package muestraprotected;
+package ar.charlycimino.ejemplos.protegido;
 
 import java.util.ArrayList;
 

@@ -1,6 +1,4 @@
-package muestraprotected;
-
-import vehiculos.Vehiculo;
+package ar.charlycimino.ejemplos.protegido;
 
 /**
  *
@@ -8,9 +6,10 @@ import vehiculos.Vehiculo;
  * https://www.youtube.com/c/CharlyCimino Encontrá más código en mi repo de
  * GitHub: https://github.com/CharlyCimino
  */
-public class OtraClase {
+public class Principal {
 
-    public OtraClase() {
-        Vehiculo v = new Vehiculo();
+    public static void main(String[] args) {
+
     }
+
 }
